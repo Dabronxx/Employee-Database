@@ -1,0 +1,13 @@
+ID#  Last Name  First Name Classes/Hours/Months Salary/Hourly-Rate Yearly Pay
+—————————————————————————————————————————————————————————————————————————————
+55   Andrews    Branko     33                                        $33000               
+113  Murray     Johanna                  10     $5700                $57000     
+297  Barnes     Emma               2190                $27           $59130     
+135  Kane       Bob                      8      $6500                $52000     
+226  Rosenthal  Wendy              1950                $30           $58500     
+261  Williams   Tyler              2430                $29           $70470     
+13   Murphy     Doug       23                                        $23000               
+173  Kinney     Meredith                 11     $4900                $53900     
+32   Harkins    Tom        41                                        $41000               
+137  Adams      Phil                     10     $7400                $74000     
+258  Frank      Thomas             2740                $23           $63020     

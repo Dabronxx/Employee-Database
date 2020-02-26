@@ -1,0 +1,11 @@
+ID#  Last Name  First Name Classes/Hours/Months Salary/Hourly-Rate 
+——————————————————————————————————————————————————————————————————
+55   Andrews    Branko	   33	
+113  Murray 	Johanna	                 10     5700
+297  Barnes	Emma	           2190		       27
+135  Kane	Bob                      8      6500
+226  Rosenthal  Wendy              1950		       30
+65   Johnson    Tim        47
+261  Williams	Tyler	           2430                29
+13   Murphy	Doug       23
+173  Kinney     Meredith                 11	       4900
